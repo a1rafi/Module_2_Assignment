@@ -29,7 +29,7 @@ git checkout -b develop
 ```bash
 git checkout -b feature/login
 ```
-![Task 1](/media/alrafi/6EDA7E86DA7E4A7B/DevOps/Assignments/Module2/ss/Task1 M2.png)
+![Task 1](ss/Task1 M2.png)
 
 #### Task 2
 
@@ -75,9 +75,9 @@ git checkout develop
 git merge feature/profile
 ```
 
-![Task 2](/media/alrafi/6EDA7E86DA7E4A7B/DevOps/Assignments/Module2/ss/Task2 M2.png)
+![Task 2](ss/Task2 M2.png)
 
-![Task 2.1](/media/alrafi/6EDA7E86DA7E4A7B/DevOps/Assignments/Module2/ss/Task2.1 M2.png)
+![Task 2.1](ss/Task2.1 M2.png)
 
 
 #### Task 3
@@ -103,7 +103,7 @@ git commit -m "payment branch fifth commit"
 git rebase -i HEAD~5
 ```
 
-![Task 3](/media/alrafi/6EDA7E86DA7E4A7B/DevOps/Assignments/Module2/ss/Task3 M2.png)
+![Task 3](ss/Task3 M2.png)
 
 
 ```bash

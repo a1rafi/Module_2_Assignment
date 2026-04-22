@@ -29,7 +29,7 @@ git checkout -b develop
 ```bash
 git checkout -b feature/login
 ```
-![Task 1](ss/Task1 M2.png)
+[Task 1](https://raw.githubusercontent.com/a1rafi/Module_2_Assignment/main/ss/Task1%20M2.png)
 
 #### Task 2
 
@@ -75,9 +75,9 @@ git checkout develop
 git merge feature/profile
 ```
 
-![Task 2](ss/Task2 M2.png)
+![Task 2](https://raw.githubusercontent.com/a1rafi/Module_2_Assignment/main/ss/Task2%20M2.png)
 
-![Task 2.1](ss/Task2.1 M2.png)
+![Task 2](https://raw.githubusercontent.com/a1rafi/Module_2_Assignment/main/ss/Task2.1%20M2.png)
 
 
 #### Task 3
@@ -103,7 +103,7 @@ git commit -m "payment branch fifth commit"
 git rebase -i HEAD~5
 ```
 
-![Task 3](ss/Task3 M2.png)
+![Task 3](https://raw.githubusercontent.com/a1rafi/Module_2_Assignment/main/ss/Task3%20M2.png)
 
 
 ```bash
@@ -111,3 +111,5 @@ git remote add origin https://github.com/a1rafi/Module_2_Assignment.git
 git push -u origin main
 git push origin --all
 ```
+
+

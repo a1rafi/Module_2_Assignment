@@ -29,7 +29,7 @@ git checkout -b develop
 ```bash
 git checkout -b feature/login
 ```
-[Task 1](https://raw.githubusercontent.com/a1rafi/Module_2_Assignment/main/ss/Task1%20M2.png)
+![Task 1](https://raw.githubusercontent.com/a1rafi/Module_2_Assignment/main/ss/Task1%20M2.png)
 
 #### Task 2
 

@@ -112,4 +112,18 @@ git push -u origin main
 git push origin --all
 ```
 
+```txt
+**Merge VS Rebase**
 
+Git Merge: merge takes the contents of a feature branch and integrates them with a main branch by creating a new commit. It keeps history.
+
+Git Rebase: rebase moves or replays the commits to start from a new base. It rewrites the history.
+```
+
+```txt
+**Squash and Reword**
+
+Squash: Squash combines multiple commits into a single commit. 
+
+Reword: Reword is used to edit commit message without changing contents.
+```
